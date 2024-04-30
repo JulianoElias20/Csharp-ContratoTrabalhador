@@ -1,0 +1,14 @@
+C:\Users\julia\source\repos\TrabalhadorContratos\TrabalhadorContratos\bin\Debug\net8.0\TrabalhadorContratos.exe
+C:\Users\julia\source\repos\TrabalhadorContratos\TrabalhadorContratos\bin\Debug\net8.0\TrabalhadorContratos.deps.json
+C:\Users\julia\source\repos\TrabalhadorContratos\TrabalhadorContratos\bin\Debug\net8.0\TrabalhadorContratos.runtimeconfig.json
+C:\Users\julia\source\repos\TrabalhadorContratos\TrabalhadorContratos\bin\Debug\net8.0\TrabalhadorContratos.dll
+C:\Users\julia\source\repos\TrabalhadorContratos\TrabalhadorContratos\bin\Debug\net8.0\TrabalhadorContratos.pdb
+C:\Users\julia\source\repos\TrabalhadorContratos\TrabalhadorContratos\obj\Debug\net8.0\TrabalhadorContratos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\source\repos\TrabalhadorContratos\TrabalhadorContratos\obj\Debug\net8.0\TrabalhadorContratos.AssemblyInfoInputs.cache
+C:\Users\julia\source\repos\TrabalhadorContratos\TrabalhadorContratos\obj\Debug\net8.0\TrabalhadorContratos.AssemblyInfo.cs
+C:\Users\julia\source\repos\TrabalhadorContratos\TrabalhadorContratos\obj\Debug\net8.0\TrabalhadorContratos.csproj.CoreCompileInputs.cache
+C:\Users\julia\source\repos\TrabalhadorContratos\TrabalhadorContratos\obj\Debug\net8.0\TrabalhadorContratos.dll
+C:\Users\julia\source\repos\TrabalhadorContratos\TrabalhadorContratos\obj\Debug\net8.0\refint\TrabalhadorContratos.dll
+C:\Users\julia\source\repos\TrabalhadorContratos\TrabalhadorContratos\obj\Debug\net8.0\TrabalhadorContratos.pdb
+C:\Users\julia\source\repos\TrabalhadorContratos\TrabalhadorContratos\obj\Debug\net8.0\TrabalhadorContratos.genruntimeconfig.cache
+C:\Users\julia\source\repos\TrabalhadorContratos\TrabalhadorContratos\obj\Debug\net8.0\ref\TrabalhadorContratos.dll

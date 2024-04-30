@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\julia\\source\\repos\\TrabalhadorContratos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B24FB85-777E-4445-8A97-CCEF6EF71DFB}|TrabalhadorContratos\\TrabalhadorContratos.csproj|c:\\users\\julia\\source\\repos\\trabalhadorcontratos\\trabalhadorcontratos\\entities\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B24FB85-777E-4445-8A97-CCEF6EF71DFB}|TrabalhadorContratos\\TrabalhadorContratos.csproj|solutionrelative:trabalhadorcontratos\\entities\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B24FB85-777E-4445-8A97-CCEF6EF71DFB}|TrabalhadorContratos\\TrabalhadorContratos.csproj|c:\\users\\julia\\source\\repos\\trabalhadorcontratos\\trabalhadorcontratos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B24FB85-777E-4445-8A97-CCEF6EF71DFB}|TrabalhadorContratos\\TrabalhadorContratos.csproj|solutionrelative:trabalhadorcontratos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B24FB85-777E-4445-8A97-CCEF6EF71DFB}|TrabalhadorContratos\\TrabalhadorContratos.csproj|c:\\users\\julia\\source\\repos\\trabalhadorcontratos\\trabalhadorcontratos\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B24FB85-777E-4445-8A97-CCEF6EF71DFB}|TrabalhadorContratos\\TrabalhadorContratos.csproj|solutionrelative:trabalhadorcontratos\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B24FB85-777E-4445-8A97-CCEF6EF71DFB}|TrabalhadorContratos\\TrabalhadorContratos.csproj|c:\\users\\julia\\source\\repos\\trabalhadorcontratos\\trabalhadorcontratos\\entities\\enums\\workerlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B24FB85-777E-4445-8A97-CCEF6EF71DFB}|TrabalhadorContratos\\TrabalhadorContratos.csproj|solutionrelative:trabalhadorcontratos\\entities\\enums\\workerlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B24FB85-777E-4445-8A97-CCEF6EF71DFB}|TrabalhadorContratos\\TrabalhadorContratos.csproj|c:\\users\\julia\\source\\repos\\trabalhadorcontratos\\trabalhadorcontratos\\entities\\hourcontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B24FB85-777E-4445-8A97-CCEF6EF71DFB}|TrabalhadorContratos\\TrabalhadorContratos.csproj|solutionrelative:trabalhadorcontratos\\entities\\hourcontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HourContract.cs",
+              "DocumentMoniker": "C:\\Users\\julia\\source\\repos\\TrabalhadorContratos\\TrabalhadorContratos\\Entities\\HourContract.cs",
+              "RelativeDocumentMoniker": "TrabalhadorContratos\\Entities\\HourContract.cs",
+              "ToolTip": "C:\\Users\\julia\\source\\repos\\TrabalhadorContratos\\TrabalhadorContratos\\Entities\\HourContract.cs",
+              "RelativeToolTip": "TrabalhadorContratos\\Entities\\HourContract.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowBoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T00:16:50.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WorkerLevel.cs",
+              "DocumentMoniker": "C:\\Users\\julia\\source\\repos\\TrabalhadorContratos\\TrabalhadorContratos\\Entities\\Enums\\WorkerLevel.cs",
+              "RelativeDocumentMoniker": "TrabalhadorContratos\\Entities\\Enums\\WorkerLevel.cs",
+              "ToolTip": "C:\\Users\\julia\\source\\repos\\TrabalhadorContratos\\TrabalhadorContratos\\Entities\\Enums\\WorkerLevel.cs",
+              "RelativeToolTip": "TrabalhadorContratos\\Entities\\Enums\\WorkerLevel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T00:14:01.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\julia\\source\\repos\\TrabalhadorContratos\\TrabalhadorContratos\\Entities\\Department.cs",
+              "RelativeDocumentMoniker": "TrabalhadorContratos\\Entities\\Department.cs",
+              "ToolTip": "C:\\Users\\julia\\source\\repos\\TrabalhadorContratos\\TrabalhadorContratos\\Entities\\Department.cs",
+              "RelativeToolTip": "TrabalhadorContratos\\Entities\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T00:13:20.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\julia\\source\\repos\\TrabalhadorContratos\\TrabalhadorContratos\\Entities\\Worker.cs",
+              "RelativeDocumentMoniker": "TrabalhadorContratos\\Entities\\Worker.cs",
+              "ToolTip": "C:\\Users\\julia\\source\\repos\\TrabalhadorContratos\\TrabalhadorContratos\\Entities\\Worker.cs",
+              "RelativeToolTip": "TrabalhadorContratos\\Entities\\Worker.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAAwCoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T00:08:18.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\julia\\source\\repos\\TrabalhadorContratos\\TrabalhadorContratos\\Program.cs",
+              "RelativeDocumentMoniker": "TrabalhadorContratos\\Program.cs",
+              "ToolTip": "C:\\Users\\julia\\source\\repos\\TrabalhadorContratos\\TrabalhadorContratos\\Program.cs",
+              "RelativeToolTip": "TrabalhadorContratos\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAmwCYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T00:07:29.487Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
